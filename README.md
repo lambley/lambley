@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aaron.lambley@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aaron-lambley-35671b124/](https://www.linkedin.com/in/aaron-lambley-35671b124/)
+- 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/aaron-lambley-35671b124/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
