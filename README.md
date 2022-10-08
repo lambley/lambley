@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Lambley</h1>
 <h3 align="center">Looking to start my fullstack developer journey</h3>
 
-- 🌱 I’m currently learning **Microservices with Node.js, React, Docker and Kubernetes**
+- 🌱 I’m currently learning **Microservices with TypeScript, Node.js, React, Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://lambley.github.io/profile/](https://lambley.github.io/profile/)
 
