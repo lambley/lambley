@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Microservices with Node.js, React, Docker and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://lambley.github.io/profile/](https://lambley.github.io/profile/)
+- 👨‍💻 All of my projects are available at [here](https://troopl.com/aaronlambley)
 
 - 📫 How to reach me **aaron.lambley@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aaron-lambley-35671b124/](https://www.linkedin.com/in/aaron-lambley-35671b124/)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/aaron-lambley-35671b124/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
