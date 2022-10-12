@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">Bootcamp graduate and fullstack developer, looking for my first developer role</h3>
-<br>
 <p align="center">🌱 I’m currently learning a Dog Health app (<a href="https://github.com/lambley/dog-health-api">API</a>, <a href="https://github.com/lambley/dog-health-frontend">Frontend</a>) and a <a href="https://github.com/lambley/todo-list-nodereact">Todo List app</a> in Node/React using Socket.io</p>
-<br>
 <p align="center">🏠 I'm currently working on <b>Microservices with Node.js, React, Docker and Kubernetes</b></p>
-<br>
 <p align="center">👨‍💻 All of my projects are available <a href="https://troopl.com/aaronlambley">here</a></p>
-<br>
 <p align="center">📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/aaron-lambley-35671b124/">LinkedIn</a></p>
-<br>
 <p align="center">📫 Get in touch by <a href="mailto:aaron.lambley+ghpages@gmail.com" target="_blank">email</a></p>
-<br>
 <hr>
 
 <h3 align="center">Technologies</h3>
