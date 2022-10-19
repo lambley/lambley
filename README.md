@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Figma-fb009f?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-ff0046?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-ffa300?style=for-the-badge&logo=trello&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-ffd800?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/windows%20terminal-e2fc03?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 </div>
 <hr>
