@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">Bootcamp graduate and fullstack developer, looking for my first developer role</h3>
-<p align="center">🏠 Current project(s): a Dog Health app (<a href="https://github.com/lambley/dog-health-api">API</a>, <a href="https://github.com/lambley/dog-health-frontend">Frontend</a>) and a <a href="https://github.com/lambley/todo-list-nodereact">Collaborative Todo List app</a> in Node/React using Socket.io</p>
+<p align="center">🏠 Current project(s): a Dog Health app (<a href="https://github.com/lambley/dog-health-api">API</a>, <a href="https://github.com/lambley/dog-health-frontend">Frontend</a>), a microservice-based <a href='https://github.com/lambley/ticketing_app'>Ticket Re-selling app</a>, and a <a href="https://github.com/lambley/todo-list-nodereact">Collaborative Todo List app</a> in Node/React using Socket.io</p>
 <p align="center">🌱 I’m learning <b>Microservices with Node.js, React, Docker and Kubernetes</b></p>
 <p align="center">👨‍💻 All of my projects are available <a href="https://troopl.com/aaronlambley">here</a></p>
 <p align="center">📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/aaron-lambley-35671b124/">LinkedIn</a></p>
