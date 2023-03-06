@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">Bootcamp graduate and fullstack developer, looking for my first developer role</h3>
-<p align="center">🏠 Current project(s): getting started in my first industry 😊</p>
-<p align="center">🌱 I’m learning <b>Microservices with Node.js, React, Docker and Kubernetes. And developing my skills with Ruby on Rails commercially</b></p>
+<h3 align="center">Junior full-stack software engineer</h3>
+<p align="center">🏠 Current project(s): getting started in my first developer role 😊</p>
+<p align="center">🌱 I’m learning <b>Cypress for automated front-end testing</b></p>
 <p align="center">👨‍💻 All of my projects are available <a href="https://troopl.com/aaronlambley">here</a></p>
 <p align="center">📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/aaron-lambley-35671b124/">LinkedIn</a></p>
 <p align="center">📫 Get in touch by <a href="mailto:aaron.lambley+ghpages@gmail.com" target="_blank">email</a></p>
