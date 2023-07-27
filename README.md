@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/Node.js-ef00a9?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-ff0095?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-ff0081?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-ff0081?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Django-ff0081?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-ff006d?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-ff0059?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-ff0046?style=for-the-badge&logo=bootstrap&logoColor=white">
