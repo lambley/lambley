@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">Junior full-stack software engineer</h3>
 <p align="center">🏠 Current project(s): getting started in my first developer role 😊</p>
-<p align="center">🌱 I’m learning <b>Fullstack Python (Django)</b> & brushing up on my <b>React</b> skills</p>
+<p align="center">🌱 I’m learning <b>Next.js</b> & brushing up on my <b>React</b> skills</p>
 <p align="center">👨‍💻 All of my projects are available <a href="https://troopl.com/aaronlambley">here</a> (bit out of date, sorry!)</p>
 <p align="center">📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/aaron-lambley-35671b124/">LinkedIn</a></p>
 <p align="center">📫 Get in touch by <a href="mailto:aaron.lambley+ghpages@gmail.com" target="_blank">email</a></p>
