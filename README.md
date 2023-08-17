@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-ff3731?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-ff5f16?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-ff7d00?style=for-the-badge&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-ff7d00?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-ff7d00?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-ffae00?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-ffd800?style=for-the-badge&logo=Kubernetes&logoColor=white&">
 <img src="https://img.shields.io/badge/Markdown-e2fc03?style=for-the-badge&logo=markdown&logoColor=white">
