@@ -45,5 +45,5 @@
 </div>
 <hr>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lambley&theme=radical" alt="lambley" />
+<img src="https://myreadme.vercel.app/api/embed/lambley?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
