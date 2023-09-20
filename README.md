@@ -45,5 +45,6 @@
 </div>
 <hr>
 <div align="center">
-<img src="https://myreadme.vercel.app/api/embed/lambley?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lambley&theme=radical" alt="lambley" />
+![Metrics](https://metrics.lecoq.io/lambley?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 </div>
