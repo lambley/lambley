@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">Junior full-stack software engineer</h3>
+
 <p align="center">🏠 Current project(s): <a href="https://github.com/lambley/portfolio">my personal website</a></p>
 <p align="center">🌱 I’m learning <b>Next.js</b>, <b>serverless functions</b> and using <b>SendGrid</b> for email services.</p>
 <p align="center">👨‍💻 All of my projects are available <a href="https://www.agslambley.dev">here</a></p>
