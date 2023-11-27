@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">Junior full-stack software engineer</h3>
 <p align="center">🏠 Current project(s): <a href="https://github.com/lambley/portfolio">my personal website</a></p>
-<p align="center">🌱 I’m learning <b>Next.js</b>, <b>serverless functions</b> and using <b>SendGrid</b> for email services.</p>
+<p align="center">🌱 I’m learning <b>Nest</b> for backend, <b>serverless functions</b> and using <b>SendGrid</b> for email services.</p>
 <p align="center">👨‍💻 All of my projects are available <a href="https://www.agslambley.dev">here</a></p>
 <p align="center">📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/aaron-lambley-35671b124/">LinkedIn</a></p>
 <p align="center">📫 Get in touch by <a href="mailto:aaron.lambley+ghpages@gmail.com" target="_blank">email</a></p>
