@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">Junior full-stack software engineer</h3>
+<h3 align="center">Software Developer</h3>
 <p align="center">🏠 Current project(s): <a href="https://www.agslambley.dev/">my personal website</a></p>
 <p align="center">🌱 I’m learning <b>Nest</b> for backend, <b>Redis</b> and more about <b>Docker</b>.</p>
 <p align="center">👨‍💻 All of my projects are available <a href="https://www.agslambley.dev">here</a></p>
