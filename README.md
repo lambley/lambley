@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">Software Developer</h3>
-<p align="center">🏠 Current project(s): <a href="https://www.agslambley.dev/">my personal website</a></p>
+<p align="center">🏠 Current project(s): <a href="https://www.agslambley.dev/" target="_blank">my personal website</a></p>
 <p align="center">🌱 I’m learning more about <b>Azure</b> - creating Container Registries, Deployments and so on.</p>
 <p align="center">👨‍💻 All of my projects are available <a href="https://www.agslambley.dev">here</a></p>
 <p align="center">📄 Find out more about my professional experience on <a href="https://www.linkedin.com/in/aaron-lambley-35671b124/">LinkedIn</a></p>
